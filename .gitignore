@@ -1,0 +1,6 @@
+# ignore compiled executable
+onnainai
+onnainai.exe
+
+# ignore venv
+venv/
